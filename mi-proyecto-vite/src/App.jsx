@@ -5,8 +5,6 @@ function App() {
   return (
     <>
       <FuncComponent name={'Anny'}/>
-      <FuncComponent name={'Laura'}/>
-      <FuncComponent name={'Diana'}/>
     </>
   )
 }
